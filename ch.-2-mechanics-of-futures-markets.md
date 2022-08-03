@@ -211,7 +211,29 @@
 
 ## 2.6 MARKET QUOTES
 
-*
+### Opening price
+
+* the price that is traded immediately after the start of the trading time
 
 
+
+### Settlement price
+
+* the price that is traded **immediately before the end** of the trading time
+* used to calculate **daily gains, daily losses, margin requirement**
+
+****
+
+### **Trading volume**
+
+* the number of contacts traded intraday
+
+
+
+### Open interest
+
+* **the number of outstanding contracts**
+* **large amount of day traders: trading volume can be > open interest**
+
+****
 
